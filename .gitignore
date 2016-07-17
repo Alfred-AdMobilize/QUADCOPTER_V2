@@ -1,7 +1,0 @@
-*.o
-*~
-*/*~
-RPI/PILOT/quad_pilot
-*/*/*.o
-*.log
-*/*/*.log
